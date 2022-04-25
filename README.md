@@ -1,0 +1,2 @@
+# obum
+Mining 
